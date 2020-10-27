@@ -1,0 +1,11 @@
+D:\KOMINFO\DESKTOP\SecureNotepad\SecureNotepad\bin\Debug\SecureNotepad.exe
+D:\KOMINFO\DESKTOP\SecureNotepad\SecureNotepad\bin\Debug\SecureNotepad.pdb
+D:\KOMINFO\DESKTOP\SecureNotepad\SecureNotepad\bin\Debug\SecureNotepad.xml
+D:\KOMINFO\DESKTOP\SecureNotepad\SecureNotepad\obj\x86\Debug\SecureNotepad.frmAbout.resources
+D:\KOMINFO\DESKTOP\SecureNotepad\SecureNotepad\obj\x86\Debug\SecureNotepad.frmMain.resources
+D:\KOMINFO\DESKTOP\SecureNotepad\SecureNotepad\obj\x86\Debug\SecureNotepad.frmPassword.resources
+D:\KOMINFO\DESKTOP\SecureNotepad\SecureNotepad\obj\x86\Debug\SecureNotepad.Resources.resources
+D:\KOMINFO\DESKTOP\SecureNotepad\SecureNotepad\obj\x86\Debug\SecureNotepad.vbproj.GenerateResource.Cache
+D:\KOMINFO\DESKTOP\SecureNotepad\SecureNotepad\obj\x86\Debug\SecureNotepad.exe
+D:\KOMINFO\DESKTOP\SecureNotepad\SecureNotepad\obj\x86\Debug\SecureNotepad.xml
+D:\KOMINFO\DESKTOP\SecureNotepad\SecureNotepad\obj\x86\Debug\SecureNotepad.pdb
