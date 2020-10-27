@@ -9,3 +9,6 @@ WARNING: Do not edit files saved with other editors as this will cause them to b
 Aplikasi ini digunakan sebagai text editor dengan menyimpan file yang dienkripsi. Lisensi aplikasi bersifat bebas digunakan (freeware) tidak diperjual belikan.
 
 WARNING : Jangan mengedit file yang disimpan dengan editor lain karna akan menyebabkan file tidak dapat dibaca atau corrupt.
+
+## Latest Releases 
+Download setup <a href="https://github.com/yorihaput/securenotepad/releases">here</a>
